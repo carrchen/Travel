@@ -1,16 +1,15 @@
 <template>
-    <div>
-        Hello world
-    </div>
+  <div>
+    Hello world
+  </div>
 </template>
 
 <script>
 export default {
-    name: 'Home'
+  name: 'Home'
 }
 </script>
 
 <style>
 
 </style>
-
